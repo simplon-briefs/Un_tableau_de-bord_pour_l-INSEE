@@ -14,4 +14,4 @@ Mise en place d'un dashboard à partir de l'outil dédié Tableau.
 Le dashboard résultant de l'étude est consultable en PDF : [Datviz.pdf](dataviz.pdf)
 
 
-![datviz.png](Dataviz)
+![datviz](https://github.com/simplon-briefs/Un_tableau_de-bord_pour_l-INSEE/blob/main/dataviz.png)
