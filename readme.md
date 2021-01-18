@@ -11,4 +11,7 @@ Aude, Guillaume, Ludivine
 
 Mise en place d'un dashboard à partir de l'outil dédié Tableau.
 
-Le dashboard résultant de l'étude est consultable en PDF.
+Le dashboard résultant de l'étude est consultable en PDF : [Datviz.pdf](Dataviz.pdf)
+
+
+[!Datviz.png](Dataviz)
