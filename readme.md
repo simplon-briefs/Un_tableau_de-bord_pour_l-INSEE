@@ -16,5 +16,4 @@ Le dashboard résultant de l'étude est consultable en PDF : [Datviz.pdf](datavi
 
 ![datviz](https://github.com/simplon-briefs/Un_tableau_de-bord_pour_l-INSEE/blob/main/dataviz.png)
 
-Lien vers le dashboard sur tableau-Online :
-https://dub01.online.tableau.com/t/dashboarddelenfer/authoring/achats_compte/Tableaudebord1/Feuille%206#2
+[Lien vers le dashboard sur tableau-Online](https://dub01.online.tableau.com/t/dashboarddelenfer/authoring/achats_compte/Tableaudebord1/Feuille%206#2)
